@@ -1,2 +1,2 @@
 # NFT-Sample-
-ERC-721 stablecoin example, token URIs generated through pinata IPFS file storage
+ERC-721 NFT example, token URIs generated through pinata IPFS file storage
